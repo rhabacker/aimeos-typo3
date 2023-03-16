@@ -8,7 +8,7 @@ return [
 	],
 	'index' => [
 		'manager' => [
-			'name' => 'MySQL',
+			'name' => 'PgSQL',
 		],
 	],
 ];
